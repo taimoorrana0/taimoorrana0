@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  The way I see it, every life is a pile of good things
-description: this is also smalle post tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
-date:   2024-08-21 15:01:35 +0300
+description: this is also sample post tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
+date:   2024-08-20 15:01:35 +0300
 image:  '/images/11.jpg'
 tags:   [Life, Rest]
 featured: true
