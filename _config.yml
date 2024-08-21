@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: RazorSPoint
+title: Blog
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Norlin – A Beautiful Dark Blog Theme for Jekyll.
+description:  – A Beautiful Dark Blog Theme for blogging website designed by taimoor.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,14 +10,14 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Author Settings
 author:
-  name: Sebastian Schütze
+  name: Taimoor
   avatar: '/images/15.jpg'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: RazorSPoint
+  title: Blog 
   description: DevOps, Azure and ideas.
   image: '/images/01.jpg'
 
@@ -25,9 +25,8 @@ hero:
 #-------------------------------
 # Contact Settings
 contact:
-  email: sebastian.schuetze@razorspoint.com # Add your email for contact form
-  description: Norlin comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-
+  email: ranatamoor067@gmail.com # Add your email for contact form
+  description:  you can reach me via below form
 # NOTE
 # Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
@@ -37,11 +36,11 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/RazorSPoint"}
-- {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UCzQ2vDjfscqSpXvSHhejJMg"}
-- {icon: "ion-logo-github", link: "https://github.com/SebastianSchuetze"}
-- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/sebastianschuetze"}
-
+- {icon: "ion-logo-twitter", link: ""}
+- {icon: "ion-logo-youtube", link: ""}
+- {icon: "ion-logo-github", link: ""}
+- {icon: "ion-logo-linkedin", link: ""}
+- {icon: "ion-logo-whatsapp", link: "https://wa.me/923237606011"}
 
 #-------------------------------
 # Comment Section (Disqus)
