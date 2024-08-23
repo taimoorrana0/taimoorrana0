@@ -3,7 +3,7 @@
 title: Blog
 logo: # You can add own logo. For example '/images/logo.png'.
 description:  – A Beautiful Dark Blog Theme for blogging website designed by taimoor.
-baseurl: "" # The subpath of your site, e.g. /blog
+baseurl: "/ranataimoor.github.io" # The subpath of your site, e.g. /blog
 url: "https://bloggingsite01.netlify.app/2024/08/22/a-journey-of-a-thousand-leagues-begins-beneath-one-s-feet/" # The base hostname & protocol for your site, e.g. http://example.com
 
 
