@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  That which does not kill us makes us stronger
+title:  DIY Virtual Reality
 description:  this is a sample post to check..... 
 date:   2024-09-23 15:01:35 +0300
 image:  '/images/110.jpg'
