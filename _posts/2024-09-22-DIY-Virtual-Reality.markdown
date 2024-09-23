@@ -2,7 +2,7 @@
 layout: post
 title:  DIY Virtual Reality
 description:  this is a sample post to check..... 
-date:   2024-09-23 15:01:35 +0300
+date:   2024-09-22 15:01:35 +0300
 image:  '/images/110.jpg'
 tags:   [General]
 ---
