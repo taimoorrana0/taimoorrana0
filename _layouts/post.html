@@ -41,7 +41,7 @@ layout: default
             <div class="post__bottom-meta">
               <a href="{{site.baseurl}}/about/" class="post__author-link">{{site.author.name}}</a>
               {% if page.tags.size >= 1 %}
-              <span>in</span>
+              <span></span>
               <span class="post-tags">
                 {% for tag in page.tags %}
                 <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post__tag">{{ tag }}</a>
@@ -64,7 +64,7 @@ layout: default
     <div class="post__content">
       {{ content }}
     </div>
-    <p style="font-size: 1.5rem; font-weight: bold; color: #333; margin-bottom: 10px;">Share this post:</p>
+    <p style="font-size: 1.5rem; font-weight: bold; color: #ffffff; margin-bottom: 10px;">Share this post:</p>
 
     <div class="post__share">
       
