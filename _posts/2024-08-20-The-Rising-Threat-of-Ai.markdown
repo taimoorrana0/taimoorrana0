@@ -14,6 +14,8 @@ Navigating the challenges posed by the rise of AI requires a comprehensive appro
 
 Artificial Intelligence (AI) is a fast-growing field that aims to make computers do tasks that humans usually do. It's used in many areas, from helping doctors to making self-driving cars. AI is changing how we live every day.
 
+![To kaise hain ap log](/images/610.jpg)
+
 ## Defining AI and Its Applications
 
 AI is all about making machines that can think, learn, and change like us. It includes things like machine learning, understanding human language, seeing images, and robotics. These systems can look through lots of data, spot patterns, and make choices faster and more accurately than humans.
