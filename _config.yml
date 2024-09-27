@@ -2,7 +2,7 @@
 # General Site Settings
 title: Blog
 logo: # You can add own logo. For example '/images/logo.png'.
-description:  – A Beautiful Dark Blog Theme for blogging website designed by taimoor.
+description:  – Welcome to the world of blogging.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://blogsite000.netlify.app/" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -38,13 +38,13 @@ contact:
 social:
 - {icon: "ion-logo-twitter", link: ""}
 - {icon: "ion-logo-youtube", link: ""}
-- {icon: "ion-logo-github", link: ""}
-- {icon: "ion-logo-linkedin", link: ""}
+# - {icon: "ion-logo-github", link: ""}
+# - {icon: "ion-logo-linkedin", link: ""}
 - {icon: "ion-logo-whatsapp", link: "https://wa.me/923237606011"}
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+# disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
@@ -54,7 +54,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: disable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
